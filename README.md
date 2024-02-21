@@ -1,1 +1,3 @@
 # Twitter-Data-Pipeline
+
+The project involved the construction of a robust Twitter data pipeline leveraging Airflow and Google Cloud Platform (GCP) services. Utilizing Airflow's scheduling capabilities, alongside GCP's infrastructure, the pipeline was designed to efficiently collect data from the Twitter API. Through a meticulously programmed Python script, the data fetched from Twitter underwent essential transformations before being securely stored within a Google Cloud Storage (GCS) bucket. Emphasizing data reliability, the pipeline ensured the integrity and accessibility of the collected Twitter data, facilitating downstream analysis and insights generation.
